@@ -1,0 +1,79 @@
+[
+  {
+    "name": "aicareerguider",
+    "desc": "AI-based career guider project in JavaScript.",
+    "image": "aicareerguider",
+    "category": "javascript",
+    "links": {
+      "code": "https://github.com/Harshspd/aicareerguider",
+      "view" : "https://github.com/Harshspd/aicareerguider"
+    }
+  },
+  {
+    "name": "Transport-Management-System",
+    "desc": "Transport management system built with mern stack.",
+    "image": "tms",
+    "category": "mernstack",
+    "links": {
+      "code": "https://github.com/Harshspd/Transport-Management-System",
+      "view" :"https://github.com/Harshspd/Transport-Management-System"
+    }
+  },
+  {
+    "name": "Weather-APP",
+    "desc": "Simple weather app built with HTML.",
+    "image": "weatherapphtml",
+    "category": "html",
+    "links": {
+      "code": "https://github.com/Harshspd/Weather-APP",
+      "view" :"https://github.com/Harshspd/Weather-APP"
+    }
+  },
+
+  {
+    "name": "AI-chatcombo",
+    "desc": "AI-powered chatbot project using JavaScript.",
+    "image": "aichatcombo",
+    "category": "javascript",
+    "links": {
+      "code": "https://github.com/Harshspd/AI-chatcombo",
+      "view" : "https://github.com/Harshspd/AI-chatcombo"
+    }
+  },
+    
+   {
+    "name": "SigmaGPT",
+    "desc": "Next-gen AI assistant with advanced reasoning capabilities.",
+    "image": "sigmagpt",
+    "category": "javascript",
+    "links": {
+      "code": "https://github.com/Harshspd/SigmaGPT",
+       "view": "https://github.com/Harshspd/SigmaGPT"
+
+    }
+  },
+ 
+  
+  {
+    "name": "AI-Career-Coach",
+    "desc": "AI career guidance application built using JavaScript.",
+    "image": "aicareercoach",
+    "category": "javascript",
+    "links": {
+      "code": "https://github.com/Harshspd/AI-Career-Coach",
+      "view" :"https://github.com/Harshspd/AI-Career-Coach"
+    }
+  },
+   {
+    "name": "WeatherAPP",
+    "desc": "Weather app built using JavaScript.",
+    "image": "weatherapp",
+    "category": "javascript",
+    "links": {
+      "code": "https://github.com/Harshspd/WeatherAPP",
+      "view" : "https://github.com/Harshspd/WeatherAPP"
+    }
+  }
+  
+  
+]
