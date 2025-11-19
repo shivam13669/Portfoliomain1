@@ -1,0 +1,21 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio website",
+  "type": "module",
+  "packageManager": "npm@9.0.0 || pnpm@8.0.0",
+  "scripts": {
+    "dev": "http-server -p 3000 -o",
+    "start": "http-server -p 3000",
+    "build": "echo 'Static site - no build needed'"
+  },
+  "keywords": [
+    "portfolio",
+    "personal"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
